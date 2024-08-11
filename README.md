@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hello, I'm mqry 👋
 
-<!--
-**mqry/mqry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a highschooler with a passion for Programming.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌍 Based in United States
+- 🎓 Currently a Highschooler
+- 💼 I have experience in Javascript, Css and HTML
+
+## Skills & Technologies
+
+Here are some of the technologies and tools I'm proficient in:
+
+- **Programming Languages**: Javascript
+- **Web Technologies**: Html, CSS Styling
+- **Tools & Platforms**: Git
+- **Databases**: MongoDB & MySQL
